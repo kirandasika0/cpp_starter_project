@@ -1,3 +1,10 @@
 CPP STARTER PROJECT
 
 This is just a barebones c++ starter project with CMake.
+
+Steps to run project:
+    1. mkdir build
+    2. cd build
+    3. cmake ..
+    4. make
+    5. ./intro
